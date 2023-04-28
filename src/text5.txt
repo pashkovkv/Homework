@@ -2,3 +2,4 @@ changes
 
 
 remote update and pull
+delete upd fron githuub and pull
